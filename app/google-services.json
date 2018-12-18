@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1028856287860",
+    "firebase_url": "https://space-communicator.firebaseio.com",
+    "project_id": "space-communicator",
+    "storage_bucket": "space-communicator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028856287860:android:ffbe2a403a66ec91",
+        "android_client_info": {
+          "package_name": "ge.luka.communicator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028856287860-h0v9h6qqjrej2qf22p4nfpqa9h0og1o2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ge.luka.communicator",
+            "certificate_hash": "ce2f544ceb721e091c180be22466872e33c3168c"
+          }
+        },
+        {
+          "client_id": "1028856287860-32boui4rcefbn1brdofj0m3fp58p1j70.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcPqenGci1DtKE5dZfmXR2tJTVPUAHQ_w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028856287860-32boui4rcefbn1brdofj0m3fp58p1j70.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Communicator</string>
+    <string name="usernameEditText_hint">მომხმარებელი</string>
+    <string name="passwordEditText_hint">პაროლი</string>
+    <string name="signInButton_text">შესვლა</string>
+    <string name="signUpButton_text">რეგისტრაცია</string>
+    <string name="singUpButton">რეგისტრაცია</string>
+    <string name="birthdata">დაბადების თარიღი</string>
+    <string name="email">ელექტრონული ფოსტა</string>
+    <string name="confirmpassword">გაიმეოროთ პაროლი</string>
+    <string name="password">პაროლი</string>
+    <string name="username">ზედმეტსახელი</string>
+    <string name="lastname">გვარი</string>
+    <string name="firstname">სახელი</string>
+    <string name="logOutButton">გამოსვლა</string>
+</resources>
